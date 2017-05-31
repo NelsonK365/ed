@@ -1,11 +1,9 @@
 ---
 layout: narrative
 title: A Letter Sent by the Maydens of London
-author: Anonymous
-editor: 
--RJ Fehrenbach (modernized text; see RQ 1988)
+editor: K Nelson
 source: STC 16754.5 Lambeth Palace Library
-
+---
 
 [ A2] A Letter sent by the Maydens of London, to the vertuous Matrones & Mistresses of the same, in the de- fense of their lawfull Libertie. Answering the Mery Meeting by us Rose , Jane , Racheli, Sara , Philumias and Dorothie. Imprinted at London by Henry Binneman, for Thomas Hacket. Anno. 1567. To the right wise , sober , and discrete Matrons, and Mi- stresses of London , the Maidens of the same Citie send greeting. We were in a very evill case, and ryght good cause had we to dread and to dispaire of oure well doings, (moste woorthie Matrones & Mistresses) wer it not that we knew ye to be such as are not moved wyth every wynde, nor such as hang upon the blastes of every mans mouth: for else what great mischiefe and trouble those fonde and malicious Dialogues of The Mery meting of Mayiens in London, might have bred us siely girles, what disquietnesse of minde and body also to you myghte therby have growne (if ye wer as light of credite, as the Author is of Judgement) your wisedomes well wote, and we are not to learne. For if at his false 
 
