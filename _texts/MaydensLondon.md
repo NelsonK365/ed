@@ -6,9 +6,9 @@ source: STC 16754.5 Lambeth Palace Library
 ---
 
 [ A2] 
-#A Letter sent 
-##by the Maydens of 
-###London, to the vertuous 
+A Letter sent 
+by the Maydens of 
+London, to the vertuous 
 Matrones & Mistresses 
 of the same, in the de-
 fense of their law-
